@@ -7,8 +7,8 @@
 <h3> Desenvolvedoras </h3>
 <ul>
   <li>Beatriz Pimenta de Camargo - RA: 10428378</li>
-  <li>Isabella Sofia Martins - RA: 10420398</li>
-  <li>Letícia Santiago da Silva - RA: 10420655 </li>
+  <li> Fernanda Maffei - RA: 1049067 </li>
+  <li> Matheus Ricardo de Oliveira Silva - RA:10418754 </li>
 </ul>
 
 
