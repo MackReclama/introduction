@@ -11,4 +11,5 @@
   <li> Matheus Ricardo de Oliveira Silva - RA:10418754 </li>
 </ul>
 
+![BannerHorizontal (1)](https://github.com/ShareTrack/CarOne/assets/143849811/4d0c4c44-11d1-4aa3-9447-99696e866ed2)
 
