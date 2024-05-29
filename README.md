@@ -4,7 +4,7 @@
 <p> Software de compartilhamento de viagens desenvolvido para melhorar a mobilidade em São Paulo e otimizar o volume de veículos nas ruas, contribuindo com a redução de emissões de carbono e promovendo a sustentabilidade. 
   <br/>
   <br/>
-<h3> Desenvolvedoras </h3>
+<h3> Desenvolvedores </h3>
 <ul>
   <li>Beatriz Pimenta de Camargo - RA: 10428378</li>
   <li> Fernanda Maffei - RA: 1049067 </li>
